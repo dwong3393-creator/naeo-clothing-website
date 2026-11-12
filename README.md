@@ -2,7 +2,7 @@
 
 A front-end website for **N.CO**, a fashion brand concept, built with plain HTML, CSS and JavaScript. It has a home page, a product showcase, an about page with a fashion video, and a contact form, and it works on desktop, tablet and phone screens.
 
-**Live demo:** https://dwong3393.github.io/naeo-clothing-website/
+**Live demo:** https://dwong3393-creator.github.io/naeo-clothing-website/
 
 ![Home page on desktop](screenshots/desktop-home.jpg)
 
@@ -35,7 +35,7 @@ A front-end website for **N.CO**, a fashion brand concept, built with plain HTML
 No build step is needed. Download or clone the repository and open `index.html` in a browser.
 
 ```
-git clone https://github.com/dwong3393/naeo-clothing-website.git
+git clone https://github.com/dwong3393-creator/naeo-clothing-website.git
 ```
 
 ## Notes
